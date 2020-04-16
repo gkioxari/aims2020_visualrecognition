@@ -6,7 +6,7 @@ Q2: 1, 2
 Q3: 3, 4
 ...
 ```
-Upload your answers to this [dropbox link](dropbox) by Thursday midnight (GMT). 
+Upload your answers to this [dropbox link][dropbox] by Thursday midnight (GMT). 
 
 # Test
 ### Question 1
@@ -30,17 +30,17 @@ The chamfer distance measures the distance between
   2. Two pointclouds
 
 ### Question 5
-[Mesh R-CNN](meshrcnn) predicts 3D object shapes from single 2D images
+[Mesh R-CNN][meshrcnn] predicts 3D object shapes from single 2D images
   1. True
   2. False
 
 ### Question 6
-In [Mesh R-CNN](meshrcnn), the topology of the predicted object is defined by the mesh-refinement branch
+In [Mesh R-CNN][meshrcnn], the topology of the predicted object is defined by the mesh-refinement branch
   1. True
   2. False
 
 ### Question 7
-In [Mesh R-CNN](meshrcnn), `vert align` maintains the spatial alignment between the image features and the 3D mesh
+In [Mesh R-CNN][meshrcnn], `vert align` maintains the spatial alignment between the image features and the 3D mesh
   1. True
   2. False
 
@@ -56,17 +56,17 @@ A distance between two pointclouds can be used as a distance between two meshes 
   3. converting pointclouds and meshs to voxels
 
 ### Question 10
-[Pointnet](pointnet) takes as input 2D images and predicts 3D pointclouds
+[Pointnet][pointnet] takes as input 2D images and predicts 3D pointclouds
   1. True
   2. False
 
 ### Question 11
-[Pointnet](pointnet) is sensitive to the order of 3D points 
+[Pointnet][pointnet] is sensitive to the order of 3D points 
   1. True
   2. False
 
 ### Question 12
-In [Occnets](occnet), the 3D representation used at train time is
+In [Occnets][occnet], the 3D representation used at train time is
   1. 3D meshes
   2. Signed distance functions (SDFs)
   3. Voxels
@@ -77,13 +77,13 @@ Differentiable mesh rendering allows for gradients to propagate back from a 2D l
   2. False
 
 ### Question 14
-In [NMR](nmr), the 3D shapes are predicted by computing a loss between
+In [NMR][nmr], the 3D shapes are predicted by computing a loss between
   1. 2D shilhouettes
   2. 3D pointclouds
   3. 3D meshes
 
 ### Question 15
-In [Mesh R-CNN](meshrcnn), a mesh subdivision followed by a graph convolution results in 
+In [Mesh R-CNN][meshrcnn], a mesh subdivision followed by a graph convolution results in 
   1. increasing the receptive field
   2. decreasing the receiptive field
   3. none of the above

@@ -1,22 +1,22 @@
 # Lab 1: Detectron2
 
-In this practical session, we will familiarize ourselves with [Detectron2](d2), an object detection library written in PyTorch. Detectron2 implements state-of-the-art object detection models, like the ones you learned about in Lecture 1. It also provides a model zoo, a library of pre-trained models trained on a variety of datasets. This allows users to download models and apply them to their own dataset. 
+In this practical session, we will familiarize ourselves with [Detectron2][d2], an object detection library written in PyTorch. Detectron2 implements state-of-the-art object detection models, like the ones you learned about in Lecture 1. It also provides a model zoo, a library of pre-trained models trained on a variety of datasets. This allows users to download models and apply them to their own dataset. 
 
-We will be going through the Detectron2 [tutorials](d2tut) which offer a step-by-step exploration of Detectron2.
+We will be going through the Detectron2 [tutorials][d2tut] which offer a step-by-step exploration of Detectron2.
 
 ## Prerequisites
-* [Colab](colab): Throughout this lab we will use colab notebooks to run detectron2 models. This is essential as the models will run much faster on the colab GPU compared to your personal laptops (which only have CPU). 
+* [Colab][colab]: Throughout this lab we will use colab notebooks to run detectron2 models. This is essential as the models will run much faster on the colab GPU compared to your personal laptops (which only have CPU). 
 
 ## Instructions
-Please upload your short report in the form of `firstname_lastname.pdf` to this [dropbox link](dropbox) by Sunday midnight. 
+Please upload your short report in the form of `firstname_lastname.pdf` to this [dropbox link][dropbox] by Sunday midnight. 
 
 ## Part A: Install Detectron2 
 
-You are asked to install Detectron2. The [install tutorial](d2inst) offers a step-by-step installation guidance. This should be relatively painless but if issues emerge myself and TAs are here to help!
+You are asked to install Detectron2. The [install tutorial][d2inst] offers a step-by-step installation guidance. This should be relatively painless but if issues emerge myself and TAs are here to help!
 
 ## Part B: Run a pre-trained model for instance segmentation
 
-You are asked to load a pre-trained model and use it on a set of images of your liking. This [example tutorial](d2run) in Detectron2 shows you how it's done; it loads a [Mark R-CNN](maskrcnn) model with a ResNet50 backbone pre-trained on [the COCO dataset](coco) for the task of instance segmentation and object detection and runs it on an image. [COCO](coco) is a dataset of more than 300k images annoated with bounding boxes and instance masks of 80 object categories. 
+You are asked to load a pre-trained model and use it on a set of images of your liking. This [example tutorial][d2run] in Detectron2 shows you how it's done; it loads a [Mark R-CNN][maskrcnn] model with a ResNet50 backbone pre-trained on [the COCO dataset][coco] for the task of instance segmentation and object detection and runs it on an image. [COCO][coco] is a dataset of more than 300k images annoated with bounding boxes and instance masks of 80 object categories. 
 
 Pick a set of images from your personal collection (you can take a few of pictures of your apartment, or images that are on your phone or anywhere on the internet) and run the pre-trained model on them. Visualize the predictions.
 
@@ -24,7 +24,7 @@ Pick a set of images from your personal collection (you can take a few of pictur
 
 In Part B, you loaded a model for instance segmentatinon, ran it through a few images from your collection, and visualized the predictions. In Part C, you are asked to repeat this process but now for the task of human pose estimation.
 
-For this part, the [Detectron2 Model Zoo](d2zoo) will prove to be very helpful. Again, take some images from your personal collection, run the model and visualize the predictions. 
+For this part, the [Detectron2 Model Zoo][d2zoo] will prove to be very helpful. Again, take some images from your personal collection, run the model and visualize the predictions. 
 
 ## Part D: Report
 

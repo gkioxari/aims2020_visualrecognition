@@ -6,7 +6,7 @@ Q2: 1, 2
 Q3: 3, 4
 ...
 ```
-Upload your answers to this [dropbox link](dropbox) by Tuesday midnight (GMT). 
+Upload your answers to this [dropbox link][dropbox] by Tuesday 11pm GMT. 
 
 # Test
 ### Question 1
@@ -28,34 +28,34 @@ Semantic segmentation from an image tackles the task of:
    3. Predicting the instances in an image that could be replaced by other similar shapes 
 
 ### Question 4
-[R-CNN](rcnn) trains a CNN to classify object region candidates into `C` classes, which are produced by a bottom-up region proposal pipeline.
+[R-CNN][rcnn] trains a CNN to classify object region candidates into `C` classes, which are produced by a bottom-up region proposal pipeline.
   1. True 
   2. False
 
 ### Question 5
-For an image `I` with `M` object candidates, [R-CNN](rcnn) will make this number of forward passes with the CNN:
+For an image `I` with `M` object candidates, [R-CNN][rcnn] will make this number of forward passes with the CNN:
   1. `M/2`
   2. `M`
   3. 1
 
 ### Question 6
-[Faster R-CNN](fasterrcnn) trains a region proposal network (RPN), which shares the same network with the object detector:
+[Faster R-CNN][fasterrcnn] trains a region proposal network (RPN), which shares the same network with the object detector:
   1. True
   2. False
 
 ### Question 7
-In [Faster R-CNN](fasterrcnn), the RPN predicts object regions which are:
+In [Faster R-CNN][fasterrcnn], the RPN predicts object regions which are:
   1. Category agnostic
   2. Category specific
 
 ### Question 8
-In [Faster R-CNN](fasterrcnn), the RPN places anchors at each location in the image of different aspect ratio and sizes. How many anchors per location are there:
+In [Faster R-CNN][fasterrcnn], the RPN places anchors at each location in the image of different aspect ratio and sizes. How many anchors per location are there:
   1. 3
   2. 9
   3. 128
 
 ### Question 9
-[Mask R-CNN](maskrcnn) introduces an ROIAlign layer which pools features from an input feature map for each proposed region by:
+[Mask R-CNN][maskrcnn] introduces an ROIAlign layer which pools features from an input feature map for each proposed region by:
   1. Rounding the region box coordinates to integer grid locations and then sampling the features using bilinear interpolation
   2. Sampling features from a region using bilinear interpolation and without any rounding of the box coordinates.
 
@@ -66,12 +66,12 @@ ROIAlign mantains a one-to-one alignment between:
   3. The depth ordering of the predicted object and the object in the image
 
 ## Question 11
-In [FCN](fcn), the final output of predicted the semantic masks has the same resolution as the image input
+In [FCN][fcn], the final output of predicted the semantic masks has the same resolution as the image input
   1. True
   2. False 
 
 ## Question 12
-In [FCN](fcn)s, the Deconvolution layer (or Transpose Convolution) with stride `s` results in an output of resolution
+In [FCN][fcn]s, the Deconvolution layer (or Transpose Convolution) with stride `s` results in an output of resolution
   1. `s` times the one of the input 
   2. `1/s` times the one of the input
   3. `+s` of the input resolution

@@ -5,10 +5,10 @@ For the thirt lab session, we will build a simple object tracker. Our tracker wi
 In our first lab, we learned how to download a pretrained model from the D2 model zoo and run it on images. The predictions from the D2 model correspond to the input frame, and are agnostic to any links to predictions on other frames of the same video. In this task, we will work with the predictions of a D2 model, like the one you used in the first lab assignment, and we will explore algorithms to link these predictions across time frames.
 
 ## Prerequisites
-* [Colab](colab): Throughout this lab we will use colab notebooks to train detectron2 models. This is essential as the models will train much faster on the colab GPU compared to your personal laptops (which only have CPU). 
+* [Colab][colab]: Throughout this lab we will use colab notebooks to train detectron2 models. This is essential as the models will train much faster on the colab GPU compared to your personal laptops (which only have CPU). 
 
 ## Instructions
-Please upload your project in a zipped folder `firstname_lastname.zip`, which contains your short report `firstname_lastname.pdf` and your notebook `firstname_lastname.ipynb`, to this [dropbox link](dropbox) by Sunday midnight. 
+Please upload your project in a zipped folder `firstname_lastname.zip`, which contains your short report `firstname_lastname.pdf` and your notebook `firstname_lastname.ipynb`, to this [dropbox link][dropbox] by Sunday midnight. 
 
 ## Part A: Detecting Objects in Frames
 

@@ -2,19 +2,19 @@
 
 ## Reading Material
 
-* [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction](r2n2), Choy et al, ECCV 2016
-* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](pointnet), Qi et al, CVPR 2017
-* [A Point Set Generation Network for 3D Object Reconstruction from a Single Image](psg), Fan et al, CVPR 2017
-* [Neural 3D Mesh Renderer](nmr), Kato et al, CVPR 2018
-* [Occupancy Networks](occnet), Mescheder et al, CVPR 2019
-* [Mesh R-CNN](meshrcnn), Gkioxari et al, ICCV 2019
+* [3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction][r2n2], Choy et al, ECCV 2016
+* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation][pointnet], Qi et al, CVPR 2017
+* [A Point Set Generation Network for 3D Object Reconstruction from a Single Image][psg], Fan et al, CVPR 2017
+* [Neural 3D Mesh Renderer][nmr], Kato et al, CVPR 2018
+* [Occupancy Networks][occnet], Mescheder et al, CVPR 2019
+* [Mesh R-CNN][meshrcnn], Gkioxari et al, ICCV 2019
 
 ### Optional
-* [SynSin: End-to-end View Synthesis from a Single Image](synsin), Wiles et al, CVPR 2020
+* [SynSin: End-to-end View Synthesis from a Single Image][synsin], Wiles et al, CVPR 2020
 
 
 ## Video Lectures
-* [3D Vision](3d) 
+* [3D Vision][3d] 
 
 [3d]: http://leccap.engin.umich.edu/leccap/viewer/r/VBqXlM
 [nmr]: https://arxiv.org/abs/1711.07566

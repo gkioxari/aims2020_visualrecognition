@@ -1,14 +1,14 @@
 # Lab 2: Training a D2 Model on a Custom Dataset
 
-For the second lab session, we will explore [Detectron2](d2) in depth by preparing a custom dataset and training on it. 
+For the second lab session, we will explore [Detectron2][d2] in depth by preparing a custom dataset and training on it. 
 
-The [Detectron2 tutorials](d2tut) offer an [example](d2new) on how to prepare and train on a custom dataset of balloons. 
+The [Detectron2 tutorials][d2tut] offer an [example][d2new] on how to prepare and train on a custom dataset of balloons. 
 
 ## Prerequisites
-* [Colab](colab): Throughout this lab we will use colab notebooks to train detectron2 models. This is essential as the models will train much faster on the colab GPU compared to your personal laptops (which only have CPU). 
+* [Colab][colab]: Throughout this lab we will use colab notebooks to train detectron2 models. This is essential as the models will train much faster on the colab GPU compared to your personal laptops (which only have CPU). 
 
 ## Instructions
-Please upload your project in a zipped folder `firstname_lastname.zip`, which contains your short report `firstname_lastname.pdf` and your notebook `firstname_lastname.ipynb`, to this [dropbox link](dropbox) by Sunday midnight. 
+Please upload your project in a zipped folder `firstname_lastname.zip`, which contains your short report `firstname_lastname.pdf` and your notebook `firstname_lastname.ipynb`, to this [dropbox link][dropbox] by Sunday midnight. 
 
 ## Part A: Data
 
@@ -37,7 +37,7 @@ To verify the data loading is correct, visualize the annotations of randomly sel
 ## Part B: Model Initialization and Training Schedule
 
 Now we proceed to training. We'll train a Mask R-CNN model, with a ResNet50 FPN backbone. We will initialize the model with two initialization schemes:
-  * With an existing model pre-trained on the [COCO](coco) dataset, available in detectron2's model zoo. Note that the COCO dataset does not have the _date_, _fig_ and _hazelnut_ categories. We will call the model with this initialization scheme `COCOinit`.
+  * With an existing model pre-trained on the [COCO][coco] dataset, available in detectron2's model zoo. Note that the COCO dataset does not have the _date_, _fig_ and _hazelnut_ categories. We will call the model with this initialization scheme `COCOinit`.
   * With ImageNet weights. We will call the model with this initialization scheme `INinit`.
 
 For ease of implementation, add a boolean flag `with_coco_init` which when set to `True` initializes with COCO pretrained weights, otherwise it uses ImageNet weights. This way you can switch between the initialization schemes by merely changing the flag.

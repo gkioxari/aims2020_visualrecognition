@@ -3,19 +3,19 @@
 ## Reading Material
 
 ###  Object Detection
-* [Rich feature hierarchies for accurate object detection and semantic segmentation](rcnn), Girshick et al, CVPR 2014
-* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](fastercnn), Ren et al, NeurIPS 2015
+* [Rich feature hierarchies for accurate object detection and semantic segmentation][rcnn], Girshick et al, CVPR 2014
+* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks][fastercnn], Ren et al, NeurIPS 2015
 
 ### Semantic Segmentation
-* [Fully Convolutional Networks for Semantic Segmentation](fcn), Long et al, CVPR 2015
-* [U-Net: Convolutional Networks for Biomedical Image Segmentation](unet), Ronneberger et al, MICCAI 2016
+* [Fully Convolutional Networks for Semantic Segmentation][fcn], Long et al, CVPR 2015
+* [U-Net: Convolutional Networks for Biomedical Image Segmentation][unet], Ronneberger et al, MICCAI 2016
 
 ### Instance Segmentation and Pose Estimation
-* [Mask R-CNN](maskrcnn), He et al, ICCV 2017
+* [Mask R-CNN][maskrcnn], He et al, ICCV 2017
 
 ## Video Lectures
-* [Object Detection](vid1) 
-* [Detection and Segmentation](vid2)
+* [Object Detection][vid1] 
+* [Detection and Segmentation][vid2]
 
 [vid1]: http://leccap.engin.umich.edu/leccap/viewer/r/UMYL4y
 [vid2]: http://leccap.engin.umich.edu/leccap/viewer/r/qbd9xt

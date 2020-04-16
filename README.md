@@ -4,7 +4,7 @@ This series of lectures will focus on visual recognition. In particular, we will
 
 Each lecture will consist of 
 
-* _a video lecture_: Normally, I would give the lecture live but due to the 9hr time difference with the west coast we will instead rely on [Justin Johnson](jj)'s [video lectures](umich_video) for the [EECS 498-007 / 598-005 Deep Learning for Computer Vision](umich) at University of Michigan. 
+* _a video lecture_: Normally, I would give the lecture live but due to the 9hr time difference with the west coast we will instead rely on [Justin Johnson][jj]'s [video lectures][umich_video] for the [EECS 498-007 / 598-005 Deep Learning for Computer Vision][umich] at University of Michigan. 
 
 * _a Q&A_: After you have watched the video lecture, I will hold a Q&A session where I will be answering questions regarding the material covered in the lecture. There you can ask me any questions or for clarifications. 
 
@@ -34,8 +34,9 @@ In the second lecture, we will cover video understanding.
 In the third lecture, we will cover 3D object understanding.
 
 * [LECTURE3.md](LECTURE3.md): Reading material and the video lectures
-* [TEST3.md](TEST3.md): Test for lecture 3
-* [LAB3.md](LAB3.md): Lab session and short report assignment
+* [LAB3.md](LAB3.md): Lab session and short report assignment (deadline: Sunday, May 3)
+* [TEST3.md](TEST3.md): Test for lecture 3 __(deadline: Sunday, May 3, 11pm GMT)__
+
 
 
 [jj]: https://web.eecs.umich.edu/~justincj/
