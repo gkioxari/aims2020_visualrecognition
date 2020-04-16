@@ -34,7 +34,7 @@ In the second lecture, we will cover video understanding.
 In the third lecture, we will cover 3D object understanding.
 
 * [LECTURE3.md](LECTURE3.md): Reading material and the video lectures
-* [LAB3.md](LAB3.md): Lab session and short report assignment (deadline: Sunday, May 3)
+* [LAB3.md](LAB3.md): Lab session and short report assignment __(deadline: Sunday, May 3)__
 * [TEST3.md](TEST3.md): Test for lecture 3 __(deadline: Sunday, May 3, 11pm GMT)__
 
 

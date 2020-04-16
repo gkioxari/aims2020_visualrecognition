@@ -6,7 +6,7 @@ Q2: 1, 2
 Q3: 3, 4
 ...
 ```
-Upload your answers to this [dropbox link][dropbox] by Thursday midnight (GMT). 
+Upload your answers to this [dropbox link][dropbox] by Sunday 11pm GMT. 
 
 # Test
 ### Question 1
