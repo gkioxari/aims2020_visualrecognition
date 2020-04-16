@@ -20,7 +20,7 @@
 [vid1]: http://leccap.engin.umich.edu/leccap/viewer/r/UMYL4y
 [vid2]: http://leccap.engin.umich.edu/leccap/viewer/r/qbd9xt
 [rcnn]: https://arxiv.org/abs/1311.2524
-[fasterrcnn]: https://arxiv.org/abs/1506.01497
+[fastercnn]: https://arxiv.org/abs/1506.01497
 [maskrcnn]: https://arxiv.org/abs/1703.06870
 [fcn]: https://arxiv.org/abs/1411.4038
 [unet]: https://arxiv.org/abs/1505.04597

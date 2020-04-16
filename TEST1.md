@@ -71,7 +71,7 @@ In [FCN][fcn], the final output of predicted the semantic masks has the same res
   2. False 
 
 ## Question 12
-In [FCN][fcn]s, the Deconvolution layer (or Transpose Convolution) with stride `s` results in an output of resolution
+In [FCN][fcn], the Deconvolution layer (or Transpose Convolution) with stride `s` results in an output of resolution
   1. `s` times the one of the input 
   2. `1/s` times the one of the input
   3. `+s` of the input resolution

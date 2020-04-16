@@ -16,7 +16,7 @@ You are asked to install Detectron2. The [install tutorial][d2inst] offers a ste
 
 ## Part B: Run a pre-trained model for instance segmentation
 
-You are asked to load a pre-trained model and use it on a set of images of your liking. This [example tutorial][d2run] in Detectron2 shows you how it's done; it loads a [Mark R-CNN][maskrcnn] model with a ResNet50 backbone pre-trained on [the COCO dataset][coco] for the task of instance segmentation and object detection and runs it on an image. [COCO][coco] is a dataset of more than 300k images annoated with bounding boxes and instance masks of 80 object categories. 
+You are asked to load a pre-trained model and use it on a set of images of your liking. This [example tutorial][d2run] in Detectron2 shows you how it's done; it loads a [Mark R-CNN][maskrcnn] model with a ResNet50 backbone pre-trained on the [COCO][coco] dataset for the task of instance segmentation and object detection and runs it on an image. COCO is a dataset of more than 300k images annoated with bounding boxes and instance masks of 80 object categories. 
 
 Pick a set of images from your personal collection (you can take a few of pictures of your apartment, or images that are on your phone or anywhere on the internet) and run the pre-trained model on them. Visualize the predictions.
 
