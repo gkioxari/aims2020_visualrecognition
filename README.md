@@ -37,7 +37,9 @@ In the third lecture, we will cover 3D object understanding.
 * [LAB3.md](LAB3.md): Lab session and short report assignment __(deadline: Sunday, May 3)__
 * [TEST3.md](TEST3.md): Test for lecture 3 __(deadline: Sunday, May 3, 11pm GMT)__
 
+# Schedule
 
+The schedule for the class can be found in [SCHEDULE.md](SCHEDULE.md)
 
 [jj]: https://web.eecs.umich.edu/~justincj/
 [umich]: https://web.eecs.umich.edu/~justincj/teaching/eecs498/
