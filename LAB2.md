@@ -8,7 +8,7 @@ The [Detectron2 tutorials][d2tut] offer an [example][d2new] on how to prepare an
 * [Colab][colab]: Throughout this lab we will use colab notebooks to train detectron2 models. This is essential as the models will train much faster on the colab GPU compared to your personal laptops (which only have CPU). 
 
 ## Instructions
-Please upload your project in a zipped folder `firstname_lastname.zip`, which contains your short report `firstname_lastname.pdf` and your notebook `firstname_lastname.ipynb`, to this [dropbox link][dropbox] by Sunday midnight. 
+Please upload your short report `firstname_lastname.pdf` and your notebook `firstname_lastname.ipynb` to this [dropbox link][dropbox] by Sunday, May 3, EOD. 
 
 ## Part A: Data
 
@@ -64,6 +64,7 @@ We want you to summarize your findings with a short report. We ask the following
 
 The length of the report should not exceed 2 pages.
 
+[dropbox]: https://www.dropbox.com/request/jqSY2pQFqodIUCR9RPOZ
 [d2]: https://github.com/facebookresearch/detectron2
 [d2tut]: https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
 [d2new]: https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=b2bjrfb2LDeo

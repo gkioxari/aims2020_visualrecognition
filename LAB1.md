@@ -8,7 +8,7 @@ We will be going through the Detectron2 [tutorials][d2tut] which offer a step-by
 * [Colab][colab]: Throughout this lab we will use colab notebooks to run detectron2 models. This is essential as the models will run much faster on the colab GPU compared to your personal laptops (which only have CPU). 
 
 ## Instructions
-Please upload your short report in the form of `firstname_lastname.pdf` to this [dropbox link][dropbox] by Sunday midnight. 
+Please upload your short report in the form of `firstname_lastname.pdf` to this [dropbox link][dropbox] by Sunday, May 3, EOD. 
 
 ## Part A: Install Detectron2 
 
@@ -39,6 +39,7 @@ __For each task__, namely instance segmentation (Part B) and human pose estimati
 The length of the report should not exceed 2 pages.
 
 
+[dropbox]: https://www.dropbox.com/request/bnCx3ZJ6WP72m1rpBvSU
 [d2]: https://github.com/facebookresearch/detectron2
 [d2tut]: https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
 [d2inst]: https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5#scrollTo=vM54r6jlKTII

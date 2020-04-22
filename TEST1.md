@@ -6,7 +6,7 @@ Q2: 1, 2
 Q3: 3, 4
 ...
 ```
-Upload your answers to this [dropbox link][dropbox] by Tuesday 11pm GMT. 
+Upload your answers to this [dropbox link][dropbox] by Tuesday, April 28, EOD. 
 
 # Test
 ### Question 1
@@ -97,9 +97,7 @@ Your next project mandates that you automatically predict how many buffalos ther
   2. You run a Mask R-CNN model pretrained on COCO
   3. Neither of the above
 
-
-
-[dropbox]: TODO
+[dropbox]: https://www.dropbox.com/request/RNMfnuysdDLzGu5oZJJF
 [rcnn]: https://arxiv.org/abs/1311.2524
 [fasterrcnn]: https://arxiv.org/abs/1506.01497
 [maskrcnn]: https://arxiv.org/abs/1703.06870

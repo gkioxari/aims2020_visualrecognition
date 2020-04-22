@@ -8,7 +8,7 @@ In our first lab, we learned how to download a pretrained model from the D2 mode
 * [Colab][colab]: Throughout this lab we will use colab notebooks to train detectron2 models. This is essential as the models will train much faster on the colab GPU compared to your personal laptops (which only have CPU). 
 
 ## Instructions
-Please upload your project in a zipped folder `firstname_lastname.zip`, which contains your short report `firstname_lastname.pdf` and your notebook `firstname_lastname.ipynb`, to this [dropbox link][dropbox] by Sunday midnight. 
+Please upload your short report `firstname_lastname.pdf` and your notebook `firstname_lastname.ipynb` to this [dropbox link][dropbox] by Sunday, May 3, EOD. 
 
 ## Part A: Detecting Objects in Frames
 
@@ -56,6 +56,7 @@ We want you to summarize your findings with a short report. We ask the following
 
 Note that we your notebook included in your submitted file should allow us to upload any 10 frames and get the corresponding tracks similar to what you show in your report.
 
+[dropbox]: https://www.dropbox.com/request/jqSY2pQFqodIUCR9RPOZ
 [d2]: https://github.com/facebookresearch/detectron2
 [video]: https://github.com/gkioxari/aims2020_visualrecognition/releases/download/v1.0/videoclip.zip
 [coco]: http://cocodataset.org/#home

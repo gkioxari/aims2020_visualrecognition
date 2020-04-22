@@ -18,7 +18,7 @@ In the first lecture, we will cover 2D object recognition from images. We will f
 
 * [LECTURE1.md](LECTURE1.md): Reading material and the video lectures
 * [LAB1.md](LAB1.md): Lab session and short report assignment __(deadline: Sunday, May 3)__
-* [TEST1.md](TEST1.md): Test for lecture 1 __(deadline: Tuesday, April 28, 11pm GMT)__
+* [TEST1.md](TEST1.md): Test for lecture 1 __(deadline: Tuesday, April 28)__
 
 
 ## Lecture 2: Video Recognition
@@ -27,7 +27,7 @@ In the second lecture, we will cover video understanding.
 
 * [LECTURE2.md](LECTURE2.md): Reading material and the video lectures
 * [LAB2.md](LAB2.md): Lab session and short report assignment __(deadline: Sunday, May 3)__
-* [TEST2.md](TEST2.md): Test for lecture 2 __(deadline: Thursday, April 30, 11pm GMT)__
+* [TEST2.md](TEST2.md): Test for lecture 2 __(deadline: Thursday, April 30)__
 
 ## Lecture 3: 3D Object Understanding
 
@@ -35,7 +35,7 @@ In the third lecture, we will cover 3D object understanding.
 
 * [LECTURE3.md](LECTURE3.md): Reading material and the video lectures
 * [LAB3.md](LAB3.md): Lab session and short report assignment __(deadline: Sunday, May 3)__
-* [TEST3.md](TEST3.md): Test for lecture 3 __(deadline: Sunday, May 3, 11pm GMT)__
+* [TEST3.md](TEST3.md): Test for lecture 3 __(deadline: Sunday, May 3)__
 
 # Schedule
 
